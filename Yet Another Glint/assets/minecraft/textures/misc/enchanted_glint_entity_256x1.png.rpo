@@ -1,0 +1,4 @@
+{
+    "condition": "armorGlint.style4",
+    "fallback": "assets/minecraft/textures/misc/enchanted_glint_entity_256x2.png"
+}

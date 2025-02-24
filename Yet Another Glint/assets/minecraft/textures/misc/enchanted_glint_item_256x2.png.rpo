@@ -1,0 +1,4 @@
+{
+    "condition": "itemGlint.style5",
+    "fallback": "assets/minecraft/textures/misc/enchanted_glint_item_256x3.png"
+}

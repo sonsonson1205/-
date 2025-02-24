@@ -1,0 +1,4 @@
+{
+    "condition": "itemGlint.style7",
+    "fallback": "assets/minecraft/textures/misc/glint_off.png"
+}

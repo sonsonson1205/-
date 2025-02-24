@@ -1,0 +1,23 @@
+{
+  "rpo.yetanotherglint.title": "YetAnotherGlint",
+
+  "rpo.yetanotherglint.itemGlint": "Enchanted Item Glint",
+  "rpo.yetanotherglint.itemGlint.style1": "64 x 1 (default)",
+  "rpo.yetanotherglint.itemGlint.style2": "128 x 1",
+  "rpo.yetanotherglint.itemGlint.style3": "128 x 2",
+  "rpo.yetanotherglint.itemGlint.style4": "256 x 1",
+  "rpo.yetanotherglint.itemGlint.style5": "256 x 2",
+  "rpo.yetanotherglint.itemGlint.style6": "256 x 3",
+  "rpo.yetanotherglint.itemGlint.style7": "256 x 4",
+  "rpo.yetanotherglint.itemGlint.off": "OFF",
+
+  "rpo.yetanotherglint.armorGlint": "Enchanted Armor Glint",
+  "rpo.yetanotherglint.armorGlint.style1": "64 x 1",
+  "rpo.yetanotherglint.armorGlint.style2": "128 x 1",
+  "rpo.yetanotherglint.armorGlint.style3": "128 x 2 (default)",
+  "rpo.yetanotherglint.armorGlint.style4": "256 x 1",
+  "rpo.yetanotherglint.armorGlint.style5": "256 x 2",
+  "rpo.yetanotherglint.armorGlint.style6": "256 x 3",
+  "rpo.yetanotherglint.armorGlint.style7": "256 x 4",
+  "rpo.yetanotherglint.armorGlint.off": "OFF"
+}

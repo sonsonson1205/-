@@ -1,0 +1,11 @@
+{
+  "rpo.yetanotherglint.title": "YetAnotherGlint",
+
+  "rpo.yetanotherglint.itemGlint": "Блеск предметов",
+  "rpo.yetanotherglint.itemGlint.style1": "64 x 1 (по умолч.)",
+  "rpo.yetanotherglint.itemGlint.off": "ВЫКЛ.",
+
+  "rpo.yetanotherglint.armorGlint": "Блеск брони",
+  "rpo.yetanotherglint.armorGlint.style3": "128 x 2 (по умолч.)",
+  "rpo.yetanotherglint.armorGlint.off": "ВЫКЛ."
+}
